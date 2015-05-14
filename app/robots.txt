@@ -1,0 +1,7 @@
+# robotstxt.org/
+# Dear Crawler recpect our roules, behave good ;)
+
+# Allow crawling off all content expect dashboards
+User-agent: *
+Disallow: /dashboard
+

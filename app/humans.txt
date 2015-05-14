@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The Humans responsible & Technology colophon
+
+# TEAM
+	Mohamed Moughamir -- Co-founder -- @omnizya
+	Salah -- Founder & CEO -- <>
+# THANKS
+	<>
+# TECHNOLOGY COLOPHON
+ HTML5, CSS3, AngularJS, Laravel, Markdown
+

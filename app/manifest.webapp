@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"name": "Jackal Design",
+	"launch_path": "/index.html",
+	"description": "",
+	"icons": {
+		"128": "asset/images/icon-128x128.png"
+	},
+	"developer": {
+		"name": "Mohamed Moughamir",
+		"url": "http://omnizya.com/~moughamir"
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+}
